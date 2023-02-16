@@ -1,13 +1,33 @@
 <html> 
     <head>
+          <h2 style=" font-family:sans-serif"><strong><em>So, you're an artist...</em></strong></h2>
          <CSS>
          </CSS>
      </head>
      <body>
-      <h2 style=" font-family:sans-serif"><strong><em>So, you're an artist...</em></strong></h2>
         <br>
-        <img src' will insert here soon' width=200>
+        <img src='https://i.ebayimg.com/images/g/Y84AAOSwhjJjdMyl/s-l640.jpg' width=200height=100>
+        <p style='font-family:sans-serif'> The First Edition <strong>Apple Pencil</strong></p>
+        <br>
         <p style=" font-family:sans-serif">By far Apple's most artist oriented duo are...Drumroll please....<strong> The Apple pencil and iPad Pro</strong>
         these two are the '<em>dream team</em>'. they work so perfectly together, with the newest edition of the Apple pencil being able to <strong>magnetically
         attach on to iPad and charge</strong> 
+        
+        <section>
+        <h3 style='font-family:sans-serif'  ><strong><em>The Paper For The Pencil...The iPad Pro</em></strong> </h3>
+        <img src='https://images.macrumors.com/t/rxG5dVhAad1XNNQcpuSZyMM5jFM=/800x0/smart/article-new/2018/11/ipad-pro-2022-roundup-header.png?lossy' width=200>
+          <p style='font-family:sans-serif'>The iPad pro is Apple's <strong> Most Advanced iPad</strong> it is made for people of the workforce who need a <strong>more advanced device to preform extreme tasks</strong>but it is also the best iPad for artists. </p>
+          
+<p style='font-family:sans-serif'> The iPad pro comes in <strong> two sizes, both manufactured for different purposes</strong> the <strong>11 inch model is made for users who want an iPad Pro, but will use it as a '<em>couch surfer</em>' and not really preforming laptop-like tasks</strong></p>
+
+<p style='font-family:sans-serif'>Moreover, the <strong>12.9 inch iPad pro is basically a touchscreen laptop,</strong>considering that Apple's original Macbook <strong>also had a screen size of 12.9 inches</strong> this iPad is great for <strong> artists, the frame rate, display and overall experience is unparallel to the 11 inch model as the screen is substantally bigger</strong></p>
+
+<img src='https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc3/Apple_MacBook_12_Zoll.jpg'width=200>
+<img src='https://m.media-amazon.com/images/I/81T7oLqKrfL._AC_SL1500_.jpg'width=150>
+<br>
+<p style='font-family:sans-serif'> the two <strong>side by side, you can see the iPad's immense size </strong></p>
+
+          
+        </section>
+      
        
