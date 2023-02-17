@@ -1,8 +1,8 @@
 <html> 
     <head>
           <h2 style=" font-family:sans-serif"><strong><em>So, you're an artist...</em></strong></h2>
-         <CSS>
-         </CSS>
+         <style>
+         </style>
      </head>
      <body>
         <br>
@@ -29,5 +29,21 @@
 
           
         </section>
-      
+        
+        <section>
+   <h3 style='font-family:sans-serif'><strong><em>Create Artwork, Take Notes...Here are some apps</em></strong> </h3>          
+         
+    <ul style='font-family:sans-serif'>
+    <li><strong>Procreate</strong><em> Despite costing about 10 dollars, this application is the Rolls Royce of apps that are made for drawing, with features that allow you to change brush sizes and generally customize your paintbrushes to the tip   </em></li>
+    <br>
+    <li><strong>GoodNotes5</strong><em> Unlike Procreate, this app is completely free, unless of course you want to purchase the premium subscription.GoodNotes5 practically turns your iPad into a notepad,By double tapping on Apple Pencil (2nd Generation) you can change to the eraser and other colors efficiently. This app is highly recommended</em></li>
+    <br>
+    <li><strong>Duolingo</strong><em> Have you ever wanted to learn a Particular language, but never had the time, introducing Duolingo and their mascot owl Duo, Duolingo teaches languages in a fun, creative and engaging way, it is always encouraging you to come back and learn more, It in our opinion is the. Number One Language Learning App </em></li>
+    <br>
+    <li><strong>Google Slides</strong><em> of course you have probably used some sort of Presentation app, However, we think that Google Slides may be the most simple to use, With Zillions of features, ranging from animating your slide to hundreds of fonts, if you don't have this app installed, you really are missing out</em></li>
+ </ul>
+  <br>  
+              <img src='https://avatars.githubusercontent.com/u/908687?s=200&v=4' width=100 height=100>
+               <p style='font-family:sans-serif'><em><strong>Duo</strong> ,Duolingo's Mascot Owl and a <br> fun Language Learning Buddy</em></p>
+        </section>
        
